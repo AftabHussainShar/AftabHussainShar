@@ -1,5 +1,5 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aftab Hussain</h1>
+<h1 align="center">Hi 👋, I'm Wajid Ali</h1>
 <h3 align="center">“The world is one big data problem.”</h3>
 <img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabhussainshar&label=Profile%20views&color=0e75b6&style=flat" alt="aftabhussainshar" /> </p>
@@ -16,15 +16,15 @@
 
 - 💬 Ask me about **anything about Data Science**
 
-- 📫 How to reach me **a03003132335@gmail.com**
+- 📫 How to reach me **Wajid.Ali.Shar.Balouch@Gmail.com**
 
 - ⚡ Fun fact **eager to learn new things on daily basis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aftab_hussains" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftab_hussains" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aftab-hussain-912853245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-hussain-912853245" height="30" width="40" /></a>
-<a href="https://fb.com/zobairali.pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zobairali.pathan" height="30" width="40" /></a>
+<a href="https://[[twitter.com/aftab_hussains](https://twitter.com/SHAR_BALOUCH1)](https://twitter.com/SHAR_BALOUCH1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wajid_ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wajid-ali-shar-balouch-41875623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajid-ali-shar-balouch-41875623b" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
