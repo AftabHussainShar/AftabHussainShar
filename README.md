@@ -24,8 +24,6 @@ focus:
   - Data Science & Analytics
   - Web Scraping & Automation
   - Predictive Modeling
-
-currently:  PHP Developer at DEVAJ Technology
 learning:   Advanced Data Analytics & Cloud Platforms
 ```
 
@@ -35,7 +33,7 @@ learning:   Advanced Data Analytics & Cloud Platforms
 
 | Role | Company | Period |
 |---|---|---|
-| PHP Developer | DEVAJ Technology, Karachi | Jan 2023 – Present |
+| PHP Developer | Mastero Technology, Karachi | Jan 2023 – Present |
 | Web Scraping & Automation Specialist | AESTECH, Karachi | Jun 2023 – Present |
 | Web Developer | ICREATIVEZ Technologies, Karachi | Jun 2022 – Dec 2023 |
 | Python Freelancer | Fiverr & Upwork | Jan 2021 – Present |
