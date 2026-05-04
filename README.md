@@ -1,64 +1,37 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aftab%20Hussain&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Python%20Specialist%20%7C%20Data%20Analyst&descAlignY=55&descColor=a0aec0&descSize=18" />
-</div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=3%2B+years+building+web+apps+%26+data+solutions;PHP+%7C+Python+%7C+Web+Scraping+%7C+Data+Analytics;Turning+raw+data+into+actionable+insights;Always+learning%2C+always+delivering." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Aftab%20Hussain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Python%20Specialist%20%E2%80%A2%20Data%20Analyst&descSize=16&descColor=ffffffaa&descAlignY=58" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+years+of+professional+experience;Web+Development+%7C+Data+Science+%7C+Automation;Building+scalable+solutions+that+matter." alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-<!-- Contact & Social Badges -->
-<div align="center">
-  <a href="mailto:a03003132335@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aftab-hussain-912853245">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/aftab_hussains">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://fb.com/zobairali.pathan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aftabhussainshar&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-</div>
-
 ---
 
-## Professional Summary
+### About Me
 
-```python
-class AftabHussain:
-    def __init__(self):
-        self.title      = "Web Developer | Python Specialist | Data Analyst"
-        self.location   = "Sukkur, Sindh, Pakistan"
-        self.experience = "3+ years"
-        self.expertise  = [
-            "Business-centric Web Applications",
-            "Data Science & Analytics",
-            "Web Scraping & Automation",
-            "Predictive Modeling & Visualization",
-        ]
-        self.frameworks = ["CodeIgniter", "Yii", "Django"]
-        self.education  = "BSCS – Shah Abdul Latif University Khairpur (2018–2022)"
-        self.contact    = "a03003132335@gmail.com"
+```yaml
+name:       Aftab Hussain
+location:   Sukkur, Sindh, Pakistan
+role:       Web Developer | Python Specialist | Data Analyst
+experience: 3+ years
+contact:    a03003132335@gmail.com
 
-    def summary(self):
-        return (
-            "Versatile developer with a strong track record of delivering scalable "
-            "web applications and data solutions across diverse industries."
-        )
+focus:
+  - Business-centric Web Applications
+  - Data Science & Analytics
+  - Web Scraping & Automation
+  - Predictive Modeling
+
+currently:  PHP Developer at DEVAJ Technology
+learning:   Advanced Data Analytics & Cloud Platforms
 ```
 
 ---
 
-## Work Experience
+### Work Experience
 
 | Role | Company | Period |
 |---|---|---|
@@ -66,106 +39,95 @@ class AftabHussain:
 | Web Scraping & Automation Specialist | AESTECH, Karachi | Jun 2023 – Present |
 | Web Developer | ICREATIVEZ Technologies, Karachi | Jun 2022 – Dec 2023 |
 | Python Freelancer | Fiverr & Upwork | Jan 2021 – Present |
-| Database Administrator | Shah Abdul Latif University Khairpur | Jun 2019 – Nov 2019 |
-
-**DEVAJ Technology** — Built high-performance web applications using PHP and Yii, designed responsive UIs with Bootstrap, and managed full development lifecycles from concept to deployment.
-
-**AESTECH** — Automated data retrieval using Selenium, Scrapy, and PyAutoGUI; navigated anti-scraping mechanisms; delivered projects aligned with international client timelines.
-
-**ICREATIVEZ Technologies** — Developed business-oriented web applications using PHP and CodeIgniter with dynamic JavaScript and jQuery features across all platforms and devices.
-
-**Freelance (Fiverr & Upwork)** — Delivered data science solutions including predictive models, customer segmentation, market analysis, and compelling data visualizations for clients worldwide.
-
-**Shah Abdul Latif University** — Managed the online fee collection system, conducted audits, digitized records, and trained staff on standardized challan verification procedures.
+| Database Administrator | Shah Abdul Latif University | Jun 2019 – Nov 2019 |
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=58A6FF)
 
-**Web Technologies & Frameworks**
+**Web & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=58A6FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=58A6FF)
+![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=flat-square&logo=jquery&logoColor=58A6FF)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=58A6FF)
+![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=58A6FF)
 
-**Data Science & Analytics**
+**Data Science**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58A6FF)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58A6FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=58A6FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=power-bi&logoColor=58A6FF)
 
-**Automation & Scraping**
+**Automation & Databases**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=58A6FF)
+![Scrapy](https://img.shields.io/badge/Scrapy-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58A6FF)
 
 ---
 
-## Education & Certifications
+### Education & Certifications
 
-| Credential | Institution | Period |
+| Credential | Institution | Year |
 |---|---|---|
-| B.Sc. Computer Science (BSCS) | Shah Abdul Latif University Khairpur | 2018 – 2022 |
-| Google Data Analytics Certificate | Google & Coursera | Jan 2022 – Jun 2023 |
-| WordPress Development Course | IBA Sukkur | Jun 2022 – Dec 2022 |
-| Certificate in Information Technology (CIT) | Technocrat, Khairpur | Jan 2019 – Jun 2019 |
+| B.Sc. Computer Science | Shah Abdul Latif University Khairpur | 2018 – 2022 |
+| Google Data Analytics Certificate | Google & Coursera | 2022 – 2023 |
+| WordPress Development Course | IBA Sukkur | 2022 |
+| Certificate in Information Technology | Technocrat, Khairpur | 2019 |
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabhussainshar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabhussainshar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=aftabhussainshar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabhussainshar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" height="165" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabhussainshar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aftabhussainshar&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aftabhussainshar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabhussainshar&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
-</div>
+### Connect
 
 <div align="center">
-  <i>"Without data, you're just another person with an opinion." – W. Edwards Deming</i>
+
+  <a href="mailto:a03003132335@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF" />
+  </a>
+  <a href="https://linkedin.com/in/aftab-hussain-912853245">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" />
+  </a>
+  <a href="https://twitter.com/aftab_hussains">
+    <img src="https://img.shields.io/badge/Twitter-0d1117?style=flat-square&logo=twitter&logoColor=58A6FF" />
+  </a>
+  <a href="https://fb.com/zobairali.pathan">
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=58A6FF" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
