@@ -1,122 +1,142 @@
-<!-- Header Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aftab%20Hussain&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descColor=a0aec0&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aftab%20Hussain&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Python%20Specialist%20%7C%20Data%20Analyst&descAlignY=55&descColor=a0aec0&descSize=18" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%22The+world+is+one+big+data+problem.%22;Turning+raw+data+into+real+insights.;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+learning%2C+always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=3%2B+years+building+web+apps+%26+data+solutions;PHP+%7C+Python+%7C+Web+Scraping+%7C+Data+Analytics;Turning+raw+data+into+actionable+insights;Always+learning%2C+always+delivering." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Contact & Social Badges -->
 <div align="center">
+  <a href="mailto:a03003132335@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aftab-hussain-912853245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://twitter.com/aftab_hussains">
-    <img src="https://img.shields.io/twitter/follow/aftab_hussains?logo=twitter&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://fb.com/zobairali.pathan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=aftabhussainshar&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/aftabhussainshar?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" />
 </div>
 
 ---
 
-## 🧠 About Me
+## Professional Summary
 
 ```python
-class DataScientist:
+class AftabHussain:
     def __init__(self):
-        self.name       = "Aftab Hussain"
-        self.role       = "Data Scientist & ML Engineer"
-        self.location   = "Pakistan 🇵🇰"
-        self.languages  = ["Python", "SQL", "MATLAB"]
-        self.interests  = ["Machine Learning", "Deep Learning", "Data Analytics"]
-        self.currently  = "Working on Data Science projects"
-        self.learning   = "Advanced Data Analytics & MLOps"
-        self.goal       = "Turn messy data into meaningful stories"
+        self.title      = "Web Developer | Python Specialist | Data Analyst"
+        self.location   = "Sukkur, Sindh, Pakistan"
+        self.experience = "3+ years"
+        self.expertise  = [
+            "Business-centric Web Applications",
+            "Data Science & Analytics",
+            "Web Scraping & Automation",
+            "Predictive Modeling & Visualization",
+        ]
+        self.frameworks = ["CodeIgniter", "Yii", "Django"]
+        self.education  = "BSCS – Shah Abdul Latif University Khairpur (2018–2022)"
+        self.contact    = "a03003132335@gmail.com"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something data-driven together.")
-
-me = DataScientist()
-me.say_hi()
+    def summary(self):
+        return (
+            "Versatile developer with a strong track record of delivering scalable "
+            "web applications and data solutions across diverse industries."
+        )
 ```
 
 ---
 
-## 🚀 What I'm Up To
+## Work Experience
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><b>Working on</b></td>
-    <td>Data Science projects & real-world ML applications</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><b>Learning</b></td>
-    <td>Advanced Data Analytics, MLOps, and Cloud Platforms</td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><b>Open to collaborate on</b></td>
-    <td>Data pipelines, ML models, and cleaning ugly code 😄</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><b>Ask me about</b></td>
-    <td>Anything Data Science — seriously, anything!</td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td><b>Reach me at</b></td>
-    <td><a href="mailto:a03003132335@gmail.com">a03003132335@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><b>Fun fact</b></td>
-    <td>I learn something new every single day — it's a lifestyle.</td>
-  </tr>
-</table>
+| Role | Company | Period |
+|---|---|---|
+| PHP Developer | DEVAJ Technology, Karachi | Jan 2023 – Present |
+| Web Scraping & Automation Specialist | AESTECH, Karachi | Jun 2023 – Present |
+| Web Developer | ICREATIVEZ Technologies, Karachi | Jun 2022 – Dec 2023 |
+| Python Freelancer | Fiverr & Upwork | Jan 2021 – Present |
+| Database Administrator | Shah Abdul Latif University Khairpur | Jun 2019 – Nov 2019 |
+
+**DEVAJ Technology** — Built high-performance web applications using PHP and Yii, designed responsive UIs with Bootstrap, and managed full development lifecycles from concept to deployment.
+
+**AESTECH** — Automated data retrieval using Selenium, Scrapy, and PyAutoGUI; navigated anti-scraping mechanisms; delivered projects aligned with international client timelines.
+
+**ICREATIVEZ Technologies** — Developed business-oriented web applications using PHP and CodeIgniter with dynamic JavaScript and jQuery features across all platforms and devices.
+
+**Freelance (Fiverr & Upwork)** — Delivered data science solutions including predictive models, customer segmentation, market analysis, and compelling data visualizations for clients worldwide.
+
+**Shah Abdul Latif University** — Managed the online fee collection system, conducted audits, digitized records, and trained staff on standardized challan verification procedures.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
+**Languages**
 
-### 🤖 ML / AI Frameworks
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+**Web Technologies & Frameworks**
 
-### ⚙️ Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Data Science & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+**Automation & Scraping**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## Education & Certifications
+
+| Credential | Institution | Period |
+|---|---|---|
+| B.Sc. Computer Science (BSCS) | Shah Abdul Latif University Khairpur | 2018 – 2022 |
+| Google Data Analytics Certificate | Google & Coursera | Jan 2022 – Jun 2023 |
+| WordPress Development Course | IBA Sukkur | Jun 2022 – Dec 2022 |
+| Certificate in Information Technology (CIT) | Technocrat, Khairpur | Jan 2019 – Jun 2019 |
+
+---
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aftabhussainshar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" height="180" />
@@ -133,29 +153,10 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aftabhussainshar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://twitter.com/aftab_hussains">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aftab-hussain-912853245">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/zobairali.pathan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:a03003132335@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 ---
