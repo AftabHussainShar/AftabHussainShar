@@ -91,14 +91,6 @@ learning:   Advanced Data Analytics & Cloud Platforms
 ---
 
 ### GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabhussainshar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabhussainshar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" height="165" />
-
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabhussainshar&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
